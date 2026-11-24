@@ -1,1 +1,1 @@
-# maya-language
+# InCA Language
